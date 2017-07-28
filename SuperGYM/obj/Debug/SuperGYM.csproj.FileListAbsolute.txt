@@ -1,0 +1,194 @@
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\bin\Debug\SuperGYM.pdb
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+C:\Users\Taha\Downloads\Compressed\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+C:\Users\DELL\Desktop\GYM Final\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+C:\Users\DELL\Desktop\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+C:\Users\DELL\Desktop\GYM Final\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.resources
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddProForm.resources
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.DeletePro.resources
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.pdb
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\ar-EG\SuperGYM.resources.dll
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\ar\SuperGYM.resources.dll
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar-EG.resources
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar.resources
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\ar-EG\SuperGYM.resources.dll
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\ar\SuperGYM.resources.dll
+C:\Users\Taha\Downloads\Compressed\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Store.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.pdb
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\ar-EG\SuperGYM.resources.dll
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\ar\SuperGYM.resources.dll
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddProForm.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Cashier.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.DeletePro.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Return.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Sales.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Store.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar-EG.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\ar-EG\SuperGYM.resources.dll
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\ar\SuperGYM.resources.dll
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\SuperGYM.pdb
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\ar-EG\SuperGYM.resources.dll
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\bin\Debug\ar\SuperGYM.resources.dll
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddProForm.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Cashier.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.DeletePro.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Return.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Sales.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Store.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar-EG.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar.resources
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\ar-EG\SuperGYM.resources.dll
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\ar\SuperGYM.resources.dll
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+E:\Projects\Gym Management System\GYM-Final-1.0\GYM-Final-1\GYM Final 1\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.pdb
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\ar-EG\SuperGYM.resources.dll
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\ar\SuperGYM.resources.dll
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddProForm.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Cashier.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.DeletePro.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Return.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Sales.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Store.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar-EG.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar.resources
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\ar-EG\SuperGYM.resources.dll
+E:\PROGRAMS\Progs\Programming\Projects\Ramzy\GYM\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\ar\SuperGYM.resources.dll
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddProForm.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Cashier.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.DeletePro.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Return.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Sales.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Store.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar-EG.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.pdb
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\ar-EG\SuperGYM.resources.dll
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\ar\SuperGYM.resources.dll
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\ar-EG\SuperGYM.resources.dll
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\ar\SuperGYM.resources.dll
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\SuperGYM.pdb
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\ar-EG\SuperGYM.resources.dll
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\bin\Debug\ar\SuperGYM.resources.dll
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddProForm.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Cashier.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.DeletePro.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Return.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Sales.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Store.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar-EG.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar.resources
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\ar-EG\SuperGYM.resources.dll
+C:\Users\GeeDoo\Desktop\GYM Final 2\GYM Final 2\GYM Final 2\SuperGYM\SuperGYM\obj\Debug\ar\SuperGYM.resources.dll
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe.config
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.exe
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.pdb
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\bin\Debug\SuperGYM.exe
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\bin\Debug\SuperGYM.pdb
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\bin\Debug\ar-EG\SuperGYM.resources.dll
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\bin\Debug\ar\SuperGYM.resources.dll
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddProForm.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Cashier.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.DeletePro.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Return.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Sales.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.Store.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar-EG.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.AddCat.ar.resources
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\ar-EG\SuperGYM.resources.dll
+C:\Users\DELL\Desktop\SuperGYM\SuperGYM\obj\Debug\ar\SuperGYM.resources.dll
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.csprojResolveAssemblyReference.cache
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.AddCat.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.AddProForm.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.AppHome.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.Cashier.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.DeletePro.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.Form1.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.Properties.Resources.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.Return.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.Sales.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.Store.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.AddCat.ar-EG.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.AddCat.ar.resources
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.csproj.GenerateResource.Cache
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.exe
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\SuperGYM.pdb
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\bin\Debug\SuperGYM.exe.config
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\bin\Debug\SuperGYM.exe
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\bin\Debug\SuperGYM.pdb
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\bin\Debug\ar-EG\SuperGYM.resources.dll
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\bin\Debug\ar\SuperGYM.resources.dll
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\ar-EG\SuperGYM.resources.dll
+E:\Projects\Gym Management System\SuperGYM-Sales\SuperGYM  [Sales]\SuperGYM\obj\Debug\ar\SuperGYM.resources.dll
